@@ -1,4 +1,4 @@
-let nome = 'geo';
+let nome = 'duda';
 let endereco = "M.C.R";
 let cachorro = 'meg';
 console.log(`o nome da cachorra é ${cachorro}`);
